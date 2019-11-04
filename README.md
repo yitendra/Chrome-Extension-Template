@@ -1,6 +1,8 @@
 # Chrome-Extension-Template
 This is a basic chrome extension template.
+
 User can use it to search in DuckDuckGo.
+
 ShortCut keys also added.
 
 # How to use
