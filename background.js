@@ -18,7 +18,7 @@ chrome.declarativeContent.onPageChanged.removeRules(undefined, function () {
 //Creating context Menu option
 var cm = {
     "id":"OpenInDDG",
-    "title":"Open DuckDuckGo (Cmd+H)",
+    "title":"Open DuckDuckGo (Cmd+U)",
     "contexts":["selection"]
 };
 
